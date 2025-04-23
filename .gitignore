@@ -5,3 +5,5 @@ lab_7_*/
 
 data/
 logs/
+uv.lock
+.venv
